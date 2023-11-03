@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CLI notes app with node from the Frontend Masters course,  Introduction to Nodejs v3",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "teno": "./index.js"
   },
@@ -11,5 +12,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
