@@ -1,0 +1,15 @@
+{
+  "name": "cli-note",
+  "version": "1.0.0",
+  "description": "CLI notes app with node from the Frontend Masters course,  Introduction to Nodejs v3",
+  "main": "index.js",
+  "bin": {
+    "teno": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
